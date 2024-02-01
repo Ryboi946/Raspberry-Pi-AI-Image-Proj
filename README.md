@@ -1,6 +1,6 @@
 Original idea from Jess Farber(https://jezs00.medium.com/pycasso-how-to-build-a-picture-frame-to-show-you-random-ai-art-every-day-44a1d3d78237)
 
-Hello! This project uses AI to generate some cool images for your E-Ink display! All you need is a Raspberry Pi, and a Waveshare E-Ink display. Once you configure the operating system for your Pi, and have aquired the E-Ink display, follow along with these steps,
+Hello! This project uses AI to generate some cool images for your E-Ink display! All you need is a Raspberry Pi, and a Waveshare E-Ink display. Once you configure the operating system for your Pi, and have aquired the E-Ink display, follow along with these steps:
 
 1. Make sure you have Python 3 on your machine, if you do not use commands: sudo apt-get update, sudo apt-get install python3
 
