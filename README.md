@@ -2,7 +2,7 @@ Original idea from Jess Farber(https://jezs00.medium.com/pycasso-how-to-build-a-
 
 Hello! This project uses AI to generate some cool images for your E-Ink display! All you need is a Raspberry Pi, and a Waveshare E-Ink display. Once you configure the operating system for your Pi, and have aquired the E-Ink display, follow along with these steps:
 
-1. Make sure you have Python 3 on your machine, if you do not use commands: sudo apt-get update, sudo apt-get install python3
+1. Make sure you have Python on your machine, if you do not use commands: sudo apt-get update, sudo apt-get install python3
 
 2. Clone the git repository onto your machine, use command: git clone https://github.com/Ryboi946/Raspberry-Pi-AI-Image-Proj.git
 
